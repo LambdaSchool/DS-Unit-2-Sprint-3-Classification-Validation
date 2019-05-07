@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+module1-logistic-regression/features.csv
+module1-logistic-regression/genres.csv
+module1-logistic-regression/tracks.csv
